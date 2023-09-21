@@ -15,4 +15,7 @@ module.exports = {
     },
   },
   plugins: [],
+  container: {
+    center: true,
+  },
 }
